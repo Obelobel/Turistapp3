@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OBEL</Machine>
+    <WindowsUser>nicolai</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>d62b764b-ec6f-4028-9eb4-1f8bba613ad1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8F670DADC353B6F690FB5E439A6E1731D38B1F4461CD0797CA39567470808921</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d62b764b-ec6f-4028-9eb4-1f8bba613ad1_1.0.0.0_x86__4jdacjwc0e74a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d62b764b-ec6f-4028-9eb4-1f8bba613ad1_4jdacjwc0e74a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d62b764b-ec6f-4028-9eb4-1f8bba613ad1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Daniel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-08T21:49:24.406</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\App5.Windows.exe">
+      <PackagePath>App5.Windows.exe</PackagePath>
+      <Modified>2014-11-07T12:51:49.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\bones.jpg">
+      <PackagePath>Assets\bones.jpg</PackagePath>
+      <Modified>2014-10-30T10:19:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\bøffen.jpg">
+      <PackagePath>Assets\bøffen.jpg</PackagePath>
+      <Modified>2014-10-30T10:20:19.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\download.jpg">
+      <PackagePath>Assets\download.jpg</PackagePath>
+      <Modified>2014-10-30T10:20:41.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\jensen.jpg">
+      <PackagePath>Assets\jensen.jpg</PackagePath>
+      <Modified>2014-10-30T10:20:37.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\smokey-bones-hot-wings.jpg">
+      <PackagePath>Assets\smokey-bones-hot-wings.jpg</PackagePath>
+      <Modified>2014-10-30T10:19:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\UseCase.txt">
+      <PackagePath>UseCase.txt</PackagePath>
+      <Modified>2014-10-29T13:17:01.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-30T11:25:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\View\DetailedPage.xbf">
+      <PackagePath>View\DetailedPage.xbf</PackagePath>
+      <Modified>2014-11-06T12:49:29.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\View\Kommentarer.xbf">
+      <PackagePath>View\Kommentarer.xbf</PackagePath>
+      <Modified>2014-11-07T12:51:49.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+      <Modified>2014-11-06T12:49:29.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\App5.Windows.xr.xml">
+      <PackagePath>App5.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-07T12:51:49.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-08T21:49:23.500</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

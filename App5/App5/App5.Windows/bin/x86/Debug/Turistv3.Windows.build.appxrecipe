@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OBEL</Machine>
+    <WindowsUser>nicolai</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>d62b764b-ec6f-4028-9eb4-1f8bba613ad1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\App5.Windows.exe">
+      <PackagePath>App5.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\bones.jpg">
+      <PackagePath>Assets\bones.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\bøffen.jpg">
+      <PackagePath>Assets\bøffen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\download.jpg">
+      <PackagePath>Assets\download.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\jensen.jpg">
+      <PackagePath>Assets\jensen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\smokey-bones-hot-wings.jpg">
+      <PackagePath>Assets\smokey-bones-hot-wings.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\UseCase.txt">
+      <PackagePath>UseCase.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\View\DetailedPage.xbf">
+      <PackagePath>View\DetailedPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\View\Kommentarer.xbf">
+      <PackagePath>View\Kommentarer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\View\MainPage.xbf">
+      <PackagePath>View\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\App5.Windows.xr.xml">
+      <PackagePath>App5.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\nicolai\Dropbox\Bordgruppe 2\App5\App5\App5.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+﻿
+UseCase for the turist app v3.
+
+vi vil gerne have lavet en app til restauranter i roskilde, hvor vi har mulighed for at tilføje flere restauranter over tiden,
+udover det vil vi gerne have mulighed for at se restaurantens menu kort samt en eller anden mulighed for at finde ud af hvor gode 
+deres individuelle retter er, vi vil derfor gerne have det til at se noglelunde sådan her ud:
+
+* flere restauranter
+* menukort
+* Retter

@@ -1,0 +1,64 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\bin\x86\Debug\App.xbf
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\bin\x86\Debug\View\MainPage.xbf
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\bin\x86\Debug\ListView.Windows.xr.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\bin\x86\Debug\ListView.Windows.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\bin\x86\Debug\ListView.Windows.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\bin\x86\Debug\resources.pri
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\bin\x86\Debug\AppxManifest.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\bin\x86\Debug\ListView.Windows.build.appxrecipe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\App.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\View\MainPage.g.i.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\View\MainPage.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\App.xaml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\View\MainPage.xaml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\App.xbf
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\View\MainPage.xbf
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\ListView.Windows.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\ListView.Windows.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\priconfig.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\layout.resfiles
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\resources.resfiles
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\pri.resfiles
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\qualifiers.txt
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\App5\ListView\ListView.Windows\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\bin\x86\Debug\App.xbf
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\bin\x86\Debug\View\MainPage.xbf
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\bin\x86\Debug\ListView.Windows.xr.xml
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\bin\x86\Debug\ListView.Windows.exe
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\bin\x86\Debug\ListView.Windows.pdb
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\bin\x86\Debug\resources.pri
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\bin\x86\Debug\AppxManifest.xml
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\bin\x86\Debug\ListView.Windows.build.appxrecipe
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\App.g.cs
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\View\MainPage.g.i.cs
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\View\MainPage.g.cs
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\App.xaml
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\View\MainPage.xaml
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\App.xbf
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\View\MainPage.xbf
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\ListView.Windows.exe
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\ListView.Windows.pdb
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\priconfig.xml
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\layout.resfiles
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\resources.resfiles
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\pri.resfiles
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\qualifiers.txt
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Daniel\Dropbox\Bordgruppe 2\App5\ListView\ListView.Windows\obj\x86\Debug\ProjectArchitectures.txt
